@@ -22,7 +22,6 @@ The system analyzes user inputs such as age, weight, height, diet preference, fi
 * Fitness Goal
 
   * Weight Loss
-  * Weight Gain
   * Muscle Gain
   * Maintenance
 * Experience Level
