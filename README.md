@@ -196,12 +196,12 @@ http://127.0.0.1:8000/
 
 ---
 
-## Author
-
-Mann
-
----
-
 ## Disclaimer
 
 This project is created for educational and learning purposes.
+
+---
+
+## Author
+
+Mann
